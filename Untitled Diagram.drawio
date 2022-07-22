@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T07:31:44.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" version="20.1.4" etag="9lfCSUj6ofIecLMWaIKG" type="github"><diagram id="GBkp5vKAIcLw-Q-P4AEQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-22T07:36:00.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="8Gz8Jznkh7Zd5UU8xqvC" version="20.1.4" type="github">
+  <diagram id="GBkp5vKAIcLw-Q-P4AEQ" name="Page-1">
+    <mxGraphModel dx="1779" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cWpJWUanPgkQHipOh8wG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cWpJWUanPgkQHipOh8wG-1" target="cWpJWUanPgkQHipOh8wG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWpJWUanPgkQHipOh8wG-2" target="cWpJWUanPgkQHipOh8wG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-2" value="Flutter Frontend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWpJWUanPgkQHipOh8wG-4" target="cWpJWUanPgkQHipOh8wG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-8" value="Save data to firebase database&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cWpJWUanPgkQHipOh8wG-7">
+          <mxGeometry x="0.2452" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWpJWUanPgkQHipOh8wG-4" target="cWpJWUanPgkQHipOh8wG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-4" value="Take input for hawker registration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cWpJWUanPgkQHipOh8wG-6" target="cWpJWUanPgkQHipOh8wG-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-110" y="120" />
+              <mxPoint x="-110" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-6" value="Firebase" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWpJWUanPgkQHipOh8wG-9" target="cWpJWUanPgkQHipOh8wG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-9" value="AWS Server" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="cWpJWUanPgkQHipOh8wG-10" target="cWpJWUanPgkQHipOh8wG-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-10" value="Python Flask database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWpJWUanPgkQHipOh8wG-11" target="cWpJWUanPgkQHipOh8wG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-11" value="Get data of saved shops from database" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cWpJWUanPgkQHipOh8wG-14" target="cWpJWUanPgkQHipOh8wG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cWpJWUanPgkQHipOh8wG-14" value="Manage processing&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
